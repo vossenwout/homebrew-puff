@@ -1,9 +1,9 @@
 class Puff < Formula
   desc "CLI helper that fires macOS notifications for AI agents"
   homepage "https://github.com/vossenwout/puff"
-  url "https://github.com/vossenwout/puff/releases/download/v0.1.2/puff-v0.1.2.tar.gz"
-  sha256 "a827603abd1f623e023960f623dcc019ccb399e2c0b083b114775f8a03705628"
-  version "0.1.2"
+  url "https://github.com/vossenwout/puff/releases/download/v0.2.0/puff-v0.2.0.tar.gz"
+  sha256 "bda0e5c228392cb6f97a2ea4871fdfdf9a8f94124af44e85d4ee14a692ce5937"
+  version "0.2.0"
   license "MIT"
 
   def install
